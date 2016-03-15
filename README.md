@@ -1,0 +1,1 @@
+# kanomchan-struts2
